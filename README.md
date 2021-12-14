@@ -1,8 +1,8 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# You can call me Tarun, I'm student who can code, design, analyze, apps/softwares.
+### You can call me Tarun, I'm student who can code, design, analyze, apps/softwares.
 
-# Secondary skills include, 
+### Secondary skills include, 
  - Video (creation & editing) -> filmora, premiere pro.
  - Content creation -> photoshop, illustrator
  - Prototyping -> Figma
