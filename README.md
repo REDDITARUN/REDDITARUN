@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=REDDITARUN)](https://github.com/REDDITARUN/github-readme-stats)
+
 
 <!--
 **REDDITARUN/REDDITARUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
