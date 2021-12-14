@@ -1,5 +1,13 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+# You can call me Tarun, I'm student who can code, design, analyze, apps/softwares.
+
+# Secondary skills include, 
+ - Video (creation & editing) -> filmora, premiere pro.
+ - Content creation -> photoshop, illustrator
+ - Prototyping -> Figma
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REDDITARUN&layout=compact&theme=dracula)](https://github.com/REDDITARUN/github-readme-stats)
 
 
