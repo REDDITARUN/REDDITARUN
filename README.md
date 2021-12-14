@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REDDITARUN&layout=compact)](https://github.com/REDDITARUN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REDDITARUN&layout=compact&theme=onedark)](https://github.com/REDDITARUN/github-readme-stats)
 
 
 
