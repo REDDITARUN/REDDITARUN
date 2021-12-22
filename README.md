@@ -2,7 +2,7 @@
 
 ### You can call me Tarun, I'm student who can code, design, analyze, apps/softwares.
 
-### Secondary skills include, 
+### Secondary skills, 
  - Video (creation & editing) -> filmora, premiere pro.
  - Content creation -> photoshop, illustrator
  - Prototyping -> Figma
