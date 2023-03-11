@@ -1,5 +1,5 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
 
 ### Greetings! 
 My moniker is Tarun, a multi-talented student proficient in the art of coding, designing, and app/software analysis. My passion lies in tackling intricate challenges across a range of software development paradigms, networks, and cyber security. With an unyielding desire to enhance my creativity and improve my analytical decision-making skills, I am always on the lookout for opportunities to confront real-life problems and add innovative solutions to the world. Let's get coding and make a difference!
