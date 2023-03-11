@@ -10,6 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REDDITARUN&layout=compact&theme=dracula)](https://github.com/REDDITARUN/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
 
 
 <!--
