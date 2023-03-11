@@ -11,6 +11,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Secret Life of Smiling People: Are They Really Happy or Just Really Good Liars?](https://medium.com/@teendifferent7/the-secret-life-of-smiling-people-are-they-really-happy-or-just-really-good-liars-38e63ad27652?source=rss-9ecb664d87c1------2)
+- [The Tech-Stravaganza: Balancing Innovation and Responsibility in the Wild Wild Web](https://medium.com/@teendifferent7/the-tech-stravaganza-balancing-innovation-and-responsibility-in-the-wild-wild-web-a68ef3b1077a?source=rss-9ecb664d87c1------2)
+- [HTTP Parameter Pollution: When a Hacker Plays Mad Libs with Your Website](https://medium.com/@teendifferent7/http-parameter-pollution-when-a-hacker-plays-mad-libs-with-your-website-badae7fa03e6?source=rss-9ecb664d87c1------2)
+- [Don’t get Redirect-ed to Trouble: Open Redirect Vulnerabilities Exposed!](https://medium.com/@teendifferent7/dont-get-redirect-ed-to-trouble-open-redirect-vulnerabilities-exposed-7678a6117bda?source=rss-9ecb664d87c1------2)
+- [The Wild World of Website Tech: HTTP Requests, TCP Connections, and Bug Bounties — Oh My!](https://medium.com/@teendifferent7/the-wild-world-of-website-tech-http-requests-tcp-connections-and-bug-bounties-oh-my-fe7e74f6e207?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
