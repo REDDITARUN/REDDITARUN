@@ -11,11 +11,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From 9 to 5 and Feeling Alive: A Hilarious Guide to Work-Life Balance](https://medium.com/@teendifferent7/from-9-to-5-and-feeling-alive-a-hilarious-guide-to-work-life-balance-24b9e6e04624?source=rss-9ecb664d87c1------2)
 - [C0lddbox_Easy: A Chill Guide to Pen-testing and Vulnerability Hunting!](https://medium.com/@teendifferent7/c0lddbox-easy-a-chill-guide-to-pen-testing-and-vulnerability-hunting-481f55eddb4?source=rss-9ecb664d87c1------2)
 - [The Dark Side of Cyberspace: A Thrilling Journey into the World of Malware and Cyber Threats](https://medium.com/@teendifferent7/the-dark-side-of-cyberspace-a-thrilling-journey-into-the-world-of-malware-and-cyber-threats-ea3616980b9f?source=rss-9ecb664d87c1------2)
 - [The Secret Life of Smiling People: Are They Really Happy or Just Really Good Liars?](https://medium.com/@teendifferent7/the-secret-life-of-smiling-people-are-they-really-happy-or-just-really-good-liars-38e63ad27652?source=rss-9ecb664d87c1------2)
 - [The Tech-Stravaganza: Balancing Innovation and Responsibility in the Wild Wild Web](https://medium.com/@teendifferent7/the-tech-stravaganza-balancing-innovation-and-responsibility-in-the-wild-wild-web-a68ef3b1077a?source=rss-9ecb664d87c1------2)
-- [HTTP Parameter Pollution: When a Hacker Plays Mad Libs with Your Website](https://medium.com/@teendifferent7/http-parameter-pollution-when-a-hacker-plays-mad-libs-with-your-website-badae7fa03e6?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
