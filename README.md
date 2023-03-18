@@ -6,6 +6,8 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 
 #### Pray, let us engage in tech and bring about a mirthful change!
 
+#### Follow me on [Teen Different Newtork 🌐](https://linktr.ee/teendifferent7)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
 
 # Blog posts
