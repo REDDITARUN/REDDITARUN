@@ -10,7 +10,7 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
 
-# Blog posts
+# Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [From 9 to 5 and Feeling Alive: A Hilarious Guide to Work-Life Balance](https://medium.com/@teendifferent7/from-9-to-5-and-feeling-alive-a-hilarious-guide-to-work-life-balance-24b9e6e04624?source=rss-9ecb664d87c1------2)
