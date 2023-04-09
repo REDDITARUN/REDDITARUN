@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Survival of the Fittest: How Meritocracy Shapes Our Worldview](https://medium.com/@teendifferent7/survival-of-the-fittest-how-meritocracy-shapes-our-worldview-1602c2b9cf69?source=rss-9ecb664d87c1------2)
 - [Discover Tool: Uncovering Every Detail About Your Target](https://medium.com/@teendifferent7/discover-tool-uncovering-every-detail-about-your-target-5ea94046b80d?source=rss-9ecb664d87c1------2)
 - [Hack Like a Pro: Must-Have Tools for Every Ethical Hacker](https://medium.com/@teendifferent7/hack-like-a-pro-must-have-tools-for-every-ethical-hacker-287f23594d26?source=rss-9ecb664d87c1------2)
 - [Fun Facts about Linux: From Its Origin Story to Unique Features](https://medium.com/@teendifferent7/fun-facts-about-linux-from-its-origin-story-to-unique-features-9cab290f8c9?source=rss-9ecb664d87c1------2)
 - [Universal Mind: The Intelligence Behind All Living Things](https://medium.com/@teendifferent7/universal-mind-the-intelligence-behind-all-living-things-762a453cee75?source=rss-9ecb664d87c1------2)
-- [Discovering the World of Linux: A Guide to the Command Line, Shell Scripts, and Customization](https://medium.com/@teendifferent7/discovering-the-world-of-linux-a-guide-to-the-command-line-shell-scripts-and-customization-7b29a2a5ea88?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
