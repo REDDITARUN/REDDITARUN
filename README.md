@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Dark Web: A Hacker’s Playground or Cyber Security Nightmare?](https://medium.com/@teendifferent7/inside-the-dark-web-a-hackers-playground-or-cyber-security-nightmare-a0b86884ad48?source=rss-9ecb664d87c1------2)
 - [Debunking Myths About Introverts: Discovering the Strengths of Being an Introvert](https://medium.com/@teendifferent7/debunking-myths-about-introverts-discovering-the-strengths-of-being-an-introvert-d5a1a12f715c?source=rss-9ecb664d87c1------2)
 - [Get Windows for Free: A Guide to Installing Virtual Machines](https://medium.com/@teendifferent7/get-windows-for-free-a-guide-to-installing-virtual-machines-70145952d995?source=rss-9ecb664d87c1------2)
 - [Defending Against Deceptive Tactics: Understanding Social Engineering Attacks and the Power of the…](https://medium.com/@teendifferent7/defending-against-deceptive-tactics-understanding-social-engineering-attacks-and-the-power-of-the-d364d441b0a0?source=rss-9ecb664d87c1------2)
 - [Unlock Your Inner Optimist: The Surprising Benefits of Positive Thinking](https://medium.com/@teendifferent7/unlock-your-inner-optimist-the-surprising-benefits-of-positive-thinking-43961957f238?source=rss-9ecb664d87c1------2)
-- [Mastering Network Scanning: A Step-by-Step Guide using Nessus and Nmap](https://medium.com/@teendifferent7/mastering-network-scanning-a-step-by-step-guide-using-nessus-and-nmap-7d1742937635?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
