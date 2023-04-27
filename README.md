@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance](https://medium.com/@teendifferent7/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-6b90255b7700?source=rss-9ecb664d87c1------2)
 - [Master the Basics of Algorithms and Data Structures](https://medium.com/@teendifferent7/master-the-basics-of-algorithms-and-data-structures-e3805f31c63?source=rss-9ecb664d87c1------2)
 - [Discover vs Seekr: Which Open-Source Tool Reigns Supreme in OSINT?](https://medium.com/@teendifferent7/discover-vs-seekr-which-open-source-tool-reigns-supreme-in-osint-47e93cbe0be3?source=rss-9ecb664d87c1------2)
 - [Inside the Dark Web: A Hacker’s Playground or Cyber Security Nightmare?](https://medium.com/@teendifferent7/inside-the-dark-web-a-hackers-playground-or-cyber-security-nightmare-a0b86884ad48?source=rss-9ecb664d87c1------2)
 - [Debunking Myths About Introverts: Discovering the Strengths of Being an Introvert](https://medium.com/@teendifferent7/debunking-myths-about-introverts-discovering-the-strengths-of-being-an-introvert-d5a1a12f715c?source=rss-9ecb664d87c1------2)
-- [Get Windows for Free: A Guide to Installing Virtual Machines](https://medium.com/@teendifferent7/get-windows-for-free-a-guide-to-installing-virtual-machines-70145952d995?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
