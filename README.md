@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P4](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p4-f51adce071fd?source=rss-9ecb664d87c1------2)
 - [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P3](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p3-36dd2fc9851c?source=rss-9ecb664d87c1------2)
 - [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P2](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p2-f922d77e3fa0?source=rss-9ecb664d87c1------2)
 - [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-6b90255b7700?source=rss-9ecb664d87c1------2)
 - [Master the Basics of Algorithms and Data Structures](https://medium.com/@teendifferent7/master-the-basics-of-algorithms-and-data-structures-e3805f31c63?source=rss-9ecb664d87c1------2)
-- [Discover vs Seekr: Which Open-Source Tool Reigns Supreme in OSINT?](https://medium.com/@teendifferent7/discover-vs-seekr-which-open-source-tool-reigns-supreme-in-osint-47e93cbe0be3?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
