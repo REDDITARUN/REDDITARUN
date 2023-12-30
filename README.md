@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Deep Learning Model in Flutter with TFLite](https://medium.com/@teendifferent7/deploying-deep-learning-model-in-flutter-with-tflite-507b30ce00f0?source=rss-9ecb664d87c1------2)
 - [The AI Clash: ChatGPT vs. Gemini Pro — Choosing the Ideal Model for Your Needs](https://medium.com/@teendifferent7/the-ai-clash-chatgpt-vs-gemini-pro-choosing-the-ideal-model-for-your-needs-817e99d570dd?source=rss-9ecb664d87c1------2)
 - [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P4](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p4-f51adce071fd?source=rss-9ecb664d87c1------2)
 - [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P3](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p3-36dd2fc9851c?source=rss-9ecb664d87c1------2)
 - [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P2](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p2-f922d77e3fa0?source=rss-9ecb664d87c1------2)
-- [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-6b90255b7700?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
