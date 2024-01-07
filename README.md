@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Smarter AI, Faster: A Beginner’s Guide to Reinforcement Learning &lpar;Part 1&rpar;](https://medium.com/predict/build-smarter-ai-faster-a-beginners-guide-to-reinforcement-learning-part-1-1ff1e0b2c173?source=rss-9ecb664d87c1------2)
 - [From Billionaires to Biohackers: Why Waking Up at 5 AM is Trending and How You Can Do It Too!](https://medium.com/@teendifferent7/from-billionaires-to-biohackers-why-waking-up-at-5-am-is-trending-and-how-you-can-do-it-too-f1bf929ca534?source=rss-9ecb664d87c1------2)
 - [Securing the Future of AI: Why Defending Against Adversarial Attacks Matters](https://osintteam.blog/securing-the-future-of-ai-why-defending-against-adversarial-attacks-matters-82a701763d46?source=rss-9ecb664d87c1------2)
 - [Python Programming Saga: The Art of Functions and Conditional Spells](https://medium.com/@teendifferent7/python-programming-saga-the-art-of-functions-and-conditional-spells-68954609db21?source=rss-9ecb664d87c1------2)
 - [Machine Learning 101: Data Analysis and Preprocessing Strategies for Success](https://medium.com/@teendifferent7/machine-learning-101-data-analysis-and-preprocessing-strategies-for-success-cc442edfb1a1?source=rss-9ecb664d87c1------2)
-- [Deploying Deep Learning Model in Flutter with TFLite](https://medium.com/@teendifferent7/deploying-deep-learning-model-in-flutter-with-tflite-507b30ce00f0?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
