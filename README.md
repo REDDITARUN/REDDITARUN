@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing the Future of AI: Why Defending Against Adversarial Attacks Matters](https://osintteam.blog/securing-the-future-of-ai-why-defending-against-adversarial-attacks-matters-82a701763d46?source=rss-9ecb664d87c1------2)
 - [Python Programming Saga: The Art of Functions and Conditional Spells](https://medium.com/@teendifferent7/python-programming-saga-the-art-of-functions-and-conditional-spells-68954609db21?source=rss-9ecb664d87c1------2)
 - [Machine Learning 101: Data Analysis and Preprocessing Strategies for Success](https://medium.com/@teendifferent7/machine-learning-101-data-analysis-and-preprocessing-strategies-for-success-cc442edfb1a1?source=rss-9ecb664d87c1------2)
 - [Deploying Deep Learning Model in Flutter with TFLite](https://medium.com/@teendifferent7/deploying-deep-learning-model-in-flutter-with-tflite-507b30ce00f0?source=rss-9ecb664d87c1------2)
 - [The AI Clash: ChatGPT vs. Gemini Pro — Choosing the Ideal Model for Your Needs](https://medium.com/@teendifferent7/the-ai-clash-chatgpt-vs-gemini-pro-choosing-the-ideal-model-for-your-needs-817e99d570dd?source=rss-9ecb664d87c1------2)
-- [Mastering Web Penetration Testing: The Ultimate Guide to Reconnaissance P4](https://osintteam.blog/mastering-web-penetration-testing-the-ultimate-guide-to-reconnaissance-p4-f51adce071fd?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
