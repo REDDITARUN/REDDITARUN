@@ -13,11 +13,11 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-World Applications of Reinforcement Learning: Beyond Games and Simulations](https://medium.com/@teendifferent/real-world-applications-of-reinforcement-learning-beyond-games-and-simulations-d3bb13a1fd55?source=rss-9ecb664d87c1------2)
 - [Operating Systems Explained: A Beginner’s Guide to Your Computer’s Core](https://medium.com/@teendifferent/operating-systems-explained-a-beginners-guide-to-your-computer-s-core-2d05591da1c1?source=rss-9ecb664d87c1------2)
 - [Ditch the Talent Hype: Why Grit is the REAL Key to Achieving Your Dreams](https://medium.com/@teendifferent/ditch-the-talent-hype-why-grit-is-the-real-key-to-achieving-your-dreams-ad63ddb9e78f?source=rss-9ecb664d87c1------2)
 - [Speak Your Way to Success: The Ultimate Guide to Powerful Communication](https://medium.com/@teendifferent/speak-your-way-to-success-the-ultimate-guide-to-powerful-communication-cdb7dc1b080b?source=rss-9ecb664d87c1------2)
 - [Build Smarter AI, Faster: A Beginner’s Guide to Reinforcement Learning &lpar;Part 1&rpar;](https://medium.com/predict/build-smarter-ai-faster-a-beginners-guide-to-reinforcement-learning-part-1-1ff1e0b2c173?source=rss-9ecb664d87c1------2)
-- [From Billionaires to Biohackers: Why Waking Up at 5 AM is Trending and How You Can Do It Too!](https://medium.com/@teendifferent/from-billionaires-to-biohackers-why-waking-up-at-5-am-is-trending-and-how-you-can-do-it-too-f1bf929ca534?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
