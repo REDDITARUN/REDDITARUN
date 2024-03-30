@@ -13,7 +13,7 @@ My moniker is Tarun, a multi-talented student proficient in the art of coding, d
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting Time Scraping Images! Get SnapSwift, Your Python Bing Downloader](https://medium.com/@teendifferent/stop-wasting-time-scraping-images-get-snapswift-your-python-bing-downloader-dc7ac9e2c6c7?source=rss-9ecb664d87c1------2)
+- [Stop Wasting Time Scraping Images! Get SnapSwift, Your Python Bing Downloader](https://medium.com/predict/stop-wasting-time-scraping-images-get-snapswift-your-python-bing-downloader-dc7ac9e2c6c7?source=rss-9ecb664d87c1------2)
 - [Shape Your Destiny: Can You Really Control Your Health with Your Thoughts?](https://medium.com/@teendifferent/shape-your-destiny-can-you-really-control-your-health-with-your-thoughts-1c6c6ef1a0f0?source=rss-9ecb664d87c1------2)
 - [Speed Demons &amp; Supercomputers: Unveiling the Science of Formula 1](https://medium.com/@teendifferent/speed-demons-supercomputers-unveiling-the-science-of-formula-1-ee7c50edffe2?source=rss-9ecb664d87c1------2)
 - [Real-World Applications of Reinforcement Learning: Beyond Games and Simulations](https://medium.com/@teendifferent/real-world-applications-of-reinforcement-learning-beyond-games-and-simulations-d3bb13a1fd55?source=rss-9ecb664d87c1------2)
