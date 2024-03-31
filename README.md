@@ -1,9 +1,8 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
 
-### Greetings! 
 Let's code up some magic and change the world! ✨
 
+![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
 
 
 #### Follow me on [Teen Different Newtork 🌐](https://linktr.ee/teendifferent7)
