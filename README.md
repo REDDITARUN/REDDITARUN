@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
 
 ### Greetings! 
-My moniker is Tarun, a multi-talented student proficient in the art of coding, designing, and app/software analysis. My passion lies in tackling intricate challenges across a range of software development paradigms, networks, and cyber security. With an unyielding desire to enhance my creativity and improve my analytical decision-making skills, I am always on the lookout for opportunities to confront real-life problems and add innovative solutions to the world. Let's get coding and make a difference!
+Let's code up some magic and change the world! ✨
 
-#### Pray, let us engage in tech and bring about a mirthful change!
+
 
 #### Follow me on [Teen Different Newtork 🌐](https://linktr.ee/teendifferent7)
 
