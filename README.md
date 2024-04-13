@@ -12,8 +12,8 @@ Let's code up some magic and change the world! ✨
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Robotics: AI Takes the Field](https://medium.com/@teendifferent/the-future-of-robotics-ai-takes-the-field-eb2b18e6c83c?source=rss-9ecb664d87c1------2)
-- [Human Touch in AI: This Groundbreaking Research is Revolutionizing How Machines Summarize Info](https://medium.com/@teendifferent/human-touch-in-ai-this-groundbreaking-research-is-revolutionizing-how-machines-summarize-info-91b1c6d041c3?source=rss-9ecb664d87c1------2)
+- [The Future of Robotics: AI Takes the Field](https://medium.com/predict/the-future-of-robotics-ai-takes-the-field-eb2b18e6c83c?source=rss-9ecb664d87c1------2)
+- [Human Touch in AI: This Groundbreaking Research is Revolutionizing How Machines Summarize Info](https://thegrayarea.tech/human-touch-in-ai-this-groundbreaking-research-is-revolutionizing-how-machines-summarize-info-91b1c6d041c3?source=rss-9ecb664d87c1------2)
 - [Simplifying Object Detection: Annotate Your Custom Dataset with Grounding DINO](https://medium.com/predict/simplifying-object-detection-annotate-your-custom-dataset-with-grounding-dino-148576d497da?source=rss-9ecb664d87c1------2)
 - [Stop Wasting Time Scraping Images! Get SnapSwift, Your Python Bing Downloader](https://medium.com/predict/stop-wasting-time-scraping-images-get-snapswift-your-python-bing-downloader-dc7ac9e2c6c7?source=rss-9ecb664d87c1------2)
 - [Shape Your Destiny: Can You Really Control Your Health with Your Thoughts?](https://medium.com/@teendifferent/shape-your-destiny-can-you-really-control-your-health-with-your-thoughts-1c6c6ef1a0f0?source=rss-9ecb664d87c1------2)
