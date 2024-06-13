@@ -5,7 +5,6 @@ Let's code up some magic and change the world! ✨
 ![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
 
 
-#### Follow me on [Teen Different Newtork 🌐](https://linktr.ee/teendifferent7)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
 
