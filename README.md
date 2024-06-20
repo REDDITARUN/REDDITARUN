@@ -11,11 +11,11 @@ Let's code up some magic and change the world! ✨
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Large Language Models Fall Short: Insights on AI’s Inference Limitations](https://medium.com/@teendifferent/why-large-language-models-fall-short-insights-on-ais-inference-limitations-0dbd38dfebba?source=rss-9ecb664d87c1------2)
 - [BitNet: Running LLMs on Your Phone is No Longer Science Fiction](https://medium.com/@teendifferent/bitnet-running-llms-on-your-phone-is-no-longer-science-fiction-0e9e701b266b?source=rss-9ecb664d87c1------2)
 - [Beyond Deep Learning: Meta-Learning with Prototypical Networks &lpar;for Efficient AI&rpar;](https://medium.com/predict/beyond-deep-learning-meta-learning-with-prototypical-networks-for-efficient-ai-56503b642c06?source=rss-9ecb664d87c1------2)
 - [Beyond Deep Learning: How Meta-Learning Unlocks Powerful AI](https://medium.com/predict/beyond-deep-learning-how-meta-learning-unlocks-powerful-ai-745c481980a1?source=rss-9ecb664d87c1------2)
 - [The Future of Robotics: AI Takes the Field](https://medium.com/predict/the-future-of-robotics-ai-takes-the-field-eb2b18e6c83c?source=rss-9ecb664d87c1------2)
-- [Human Touch in AI: This Groundbreaking Research is Revolutionizing How Machines Summarize Info](https://thegrayarea.tech/human-touch-in-ai-this-groundbreaking-research-is-revolutionizing-how-machines-summarize-info-91b1c6d041c3?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
