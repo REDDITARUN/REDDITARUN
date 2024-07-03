@@ -1,5 +1,5 @@
 # Welcome to My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=REDDITARUN&color=grey)
 
 Driven by a passion to use technology for a better world, I’m always eager to learn and experiment, embracing the vast possibilities of AI and Cyber Security. I also have a deep appreciation for creative designs. 🎨
 
