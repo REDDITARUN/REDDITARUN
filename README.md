@@ -22,10 +22,6 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 
 
-
-
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
 
 
