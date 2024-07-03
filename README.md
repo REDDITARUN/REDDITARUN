@@ -1,15 +1,17 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-Let's code up some magic and change the world! ✨
-
+# Welcome to My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ![](https://komarev.com/ghpvc/?username=REDDITARUN&color=brightgreen)
 
+Driven by a passion to use technology for a better world, I’m always eager to learn and experiment, embracing the vast possibilities of AI and Cyber Security. I also have a deep appreciation for creative designs. 🎨
+
+When I’m not neck-deep in neural nets or tweaking algorithms, you’ll find me sharing my latest "Woah!" moments on my blog or tinkering with some design projects. Because I love creative designs - who doesn't?
+
+### Meet Me Beyond Work! 🤝
+I bet you've got some exciting ideas brewing too. What's got you curious lately? Let's connect and brainstorm - who knows what we might come up with together!
+- Check out my personal side at [Bento](https://bento.me/tarunreddi).
+- Peek at my journey at [Portfolio](https://redditarun.github.io/).
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
-
-# Blog
-
+## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
 - [Green Computing: Harnessing AI for a Sustainable Future](https://medium.com/@teendifferent/green-computing-harnessing-ai-for-a-sustainable-future-0626cc94efaa?source=rss-9ecb664d87c1------2)
 - [Why Large Language Models Fall Short: Insights on AI’s Inference Limitations](https://medium.com/@teendifferent/why-large-language-models-fall-short-insights-on-ais-inference-limitations-0dbd38dfebba?source=rss-9ecb664d87c1------2)
@@ -19,11 +21,14 @@ Let's code up some magic and change the world! ✨
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reddi-tarun-466470190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reddi-tarun-466470190" height="30" width="40" /></a>
-<a href="https://medium.com/@teendifferent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teendifferent7" height="30" width="40" /></a>
-</p>
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=REDDITARUN&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
+
+
 
 <!--
 **REDDITARUN/REDDITARUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
