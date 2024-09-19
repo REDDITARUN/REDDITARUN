@@ -13,7 +13,7 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
-- [Why LoRA Struggles with Object Detection &lpar;and Why I Learned This the Hard Way&rpar;](https://medium.com/@teendifferent/why-lora-struggles-with-object-detection-and-why-i-learned-this-the-hard-way-53a38cdf46d5?source=rss-9ecb664d87c1------2)
+- [Why LoRA Struggles with Object Detection &lpar;and Why I Learned This the Hard Way&rpar;](https://medium.com/predict/why-lora-struggles-with-object-detection-and-why-i-learned-this-the-hard-way-53a38cdf46d5?source=rss-9ecb664d87c1------2)
 - [The Secret Behind Apple Intelligence: One Model, Endless Possibilities](https://medium.com/@teendifferent/the-secret-behind-apple-intelligence-one-model-endless-possibilities-833ad1b989af?source=rss-9ecb664d87c1------2)
 - [Green Computing: Harnessing AI for a Sustainable Future](https://medium.com/@teendifferent/green-computing-harnessing-ai-for-a-sustainable-future-0626cc94efaa?source=rss-9ecb664d87c1------2)
 - [Why Large Language Models Fall Short: Insights on AI’s Inference Limitations](https://medium.com/@teendifferent/why-large-language-models-fall-short-insights-on-ais-inference-limitations-0dbd38dfebba?source=rss-9ecb664d87c1------2)
