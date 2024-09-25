@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [AI Struggles to Turn Counterfactuals into Facts &lpar;And Why You Should Care!&rpar;](https://medium.com/@teendifferent/ai-struggles-to-turn-counterfactuals-into-facts-and-why-you-should-care-18df7c33649e?source=rss-9ecb664d87c1------2)
 - [Battle of the Adapters: Efficient Fine-Tuning Methods Compared](https://medium.com/predict/battle-of-the-adapters-efficient-fine-tuning-methods-compared-e9fac9e4f10d?source=rss-9ecb664d87c1------2)
 - [Beyond LoRA: A Comprehensive Guide to Efficient Model Fine-Tuning](https://medium.com/predict/beyond-lora-a-comprehensive-guide-to-efficient-model-fine-tuning-5983bb4899fb?source=rss-9ecb664d87c1------2)
 - [Why LoRA Struggles with Object Detection &lpar;and Why I Learned This the Hard Way&rpar;](https://medium.com/predict/why-lora-struggles-with-object-detection-and-why-i-learned-this-the-hard-way-53a38cdf46d5?source=rss-9ecb664d87c1------2)
 - [The Secret Behind Apple Intelligence: One Model, Endless Possibilities](https://medium.com/@teendifferent/the-secret-behind-apple-intelligence-one-model-endless-possibilities-833ad1b989af?source=rss-9ecb664d87c1------2)
-- [Green Computing: Harnessing AI for a Sustainable Future](https://medium.com/@teendifferent/green-computing-harnessing-ai-for-a-sustainable-future-0626cc94efaa?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
