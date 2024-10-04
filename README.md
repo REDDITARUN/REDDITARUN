@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Canvas: A Sneak Peek into the Next Big Thing in AI](https://medium.com/@teendifferent/openais-canvas-a-sneak-peek-into-the-next-big-thing-in-ai-3a371df927ce?source=rss-9ecb664d87c1------2)
 - [Unlock Research Power with Google’s Notebook LLM: The AI Assistant You’ve Been Waiting For!](https://medium.com/@teendifferent/unlock-research-power-with-googles-notebook-llm-the-ai-assistant-you-ve-been-waiting-for-1c673fe58c8d?source=rss-9ecb664d87c1------2)
 - [Llama 3 into VS Code — Because Who Needs GPT?!](https://osintteam.blog/llama-3-into-vs-code-because-who-needs-gpt-e6d8accc1552?source=rss-9ecb664d87c1------2)
 - [AI Struggles to Turn Counterfactuals into Facts &lpar;And Why You Should Care!&rpar;](https://medium.com/@teendifferent/ai-struggles-to-turn-counterfactuals-into-facts-and-why-you-should-care-18df7c33649e?source=rss-9ecb664d87c1------2)
 - [Battle of the Adapters: Efficient Fine-Tuning Methods Compared](https://medium.com/predict/battle-of-the-adapters-efficient-fine-tuning-methods-compared-e9fac9e4f10d?source=rss-9ecb664d87c1------2)
-- [Beyond LoRA: A Comprehensive Guide to Efficient Model Fine-Tuning](https://medium.com/predict/beyond-lora-a-comprehensive-guide-to-efficient-model-fine-tuning-5983bb4899fb?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
