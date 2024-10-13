@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Cat Is Smarter Than Today’s Most Advanced AI’s: The Roadblock to AGI](https://medium.com/@teendifferent/why-your-cat-is-smarter-than-todays-most-advanced-ais-the-roadblock-to-agi-be284bf4a44f?source=rss-9ecb664d87c1------2)
 - [Dive into Depth: Exploring Segmentation &amp; 3D Magic](https://medium.com/@teendifferent/dive-into-depth-exploring-segmentation-3d-magic-2c2b6d1982c5?source=rss-9ecb664d87c1------2)
 - [ASPIRE: A New Era of Confidence in AI Decision-Making](https://medium.com/@teendifferent/aspire-a-new-era-of-confidence-in-ai-decision-making-38be57d359b7?source=rss-9ecb664d87c1------2)
 - [Unlocking AI Superpowers with RAG: Smarter Answers from Your Personal Data](https://medium.com/@teendifferent/unlocking-ai-superpowers-with-rag-smarter-answers-from-your-personal-data-c6accabf013c?source=rss-9ecb664d87c1------2)
 - [Apple’s Depth Pro: Revolutionizing AI with Zero-Shot Metric Depth Estimation and Real-Time…](https://medium.com/@teendifferent/apples-depth-pro-revolutionizing-ai-with-zero-shot-metric-depth-estimation-and-real-time-04d6eeb94f5d?source=rss-9ecb664d87c1------2)
-- [Llama 3.2 vs The World: The Tiny AI That Stomps, Spits, and Slays the Competition!](https://medium.com/@teendifferent/llama-3-2-vs-the-world-the-tiny-ai-that-stomps-spits-and-slays-the-competition-bb9f204f02a3?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
