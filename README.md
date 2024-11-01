@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [My Exploration into Genre Classification with Deep Learning: A Project Revisited](https://medium.com/@teendifferent/my-exploration-into-genre-classification-with-deep-learning-a-project-revisited-34d8cb631b1b?source=rss-9ecb664d87c1------2)
+- [A Beginner’s Journey into Mobile Price Classification with Machine Learning](https://medium.com/@teendifferent/a-beginners-journey-into-mobile-price-classification-with-machine-learning-d10238a0acdd?source=rss-9ecb664d87c1------2)
 - [Real-Time Vision Aid for the Blind: Depth and Proximity Tracking Under 4ms](https://medium.com/@teendifferent/real-time-vision-aid-for-the-blind-depth-and-proximity-tracking-under-4ms-2a2c09a4d211?source=rss-9ecb664d87c1------2)
 - [Why AGI Isn’t a One-Model Wonder &lpar;and Never Will Be&rpar;](https://medium.com/@teendifferent/why-agi-isnt-a-one-model-wonder-and-never-will-be-fa55dc76595b?source=rss-9ecb664d87c1------2)
 - [Why Tesla’s 2027 Robotaxi Vision May Be Too Bold: The Challenges of Full Autonomy](https://osintteam.blog/why-teslas-2027-robotaxi-vision-may-be-too-bold-the-challenges-of-full-autonom-00c91ed9c79e?source=rss-9ecb664d87c1------2)
-- [Essentials of Machine Learning : Your Ultimate Guide to Get Started](https://medium.com/@teendifferent/essentials-of-machine-learning-your-ultimate-guide-to-get-started-d0979ba7c1d2?source=rss-9ecb664d87c1------2)
-- [Why Your Cat Is Smarter Than Today’s Most Advanced AI’s: The Roadblock to AGI](https://osintteam.blog/why-your-cat-is-smarter-than-todays-most-advanced-ais-the-roadblock-to-agi-be284bf4a44f?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
