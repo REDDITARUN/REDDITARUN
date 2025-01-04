@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Future of AI Isn’t Bigger, It’s More Personal: Beyond the Clock](https://medium.com/@teendifferent/why-the-future-of-ai-isnt-bigger-it-s-more-personal-beyond-the-clock-f97b6cf61d25?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: The Expansion of Personal AGI](https://medium.com/@teendifferent/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-expansion-of-personal-agi-6ee63df44d3d?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: The Evolution of Personal AGI](https://medium.com/predict/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-evolution-of-personal-agi-4f57f8fddee8?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: Unveiling the Curtain](https://medium.com/predict/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-rise-of-personal-agi-67cc03afb695?source=rss-9ecb664d87c1------2)
 - [How I Achieved 4ms Depth &amp; Object Detection — and What I Built with It](https://medium.com/predict/how-i-achieved-4ms-depth-object-detection-and-what-i-built-with-it-246849007223?source=rss-9ecb664d87c1------2)
-- [My Exploration into Genre Classification with Deep Learning: A Project Revisited](https://medium.com/@teendifferent/my-exploration-into-genre-classification-with-deep-learning-a-project-revisited-34d8cb631b1b?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
