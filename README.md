@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [How the Instagram Algorithm Works in 2024 &lpar;and What Data It Collects?&rpar;](https://medium.com/@teendifferent/how-the-instagram-algorithm-works-in-2024-and-what-data-it-collects-cd8410d0d117?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: The Vision of Personal AGI](https://thegrayarea.tech/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-vision-of-personal-agi-ff29d270d617?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: Beyond the Clock](https://osintteam.blog/why-the-future-of-ai-isnt-bigger-it-s-more-personal-beyond-the-clock-f97b6cf61d25?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: The Expansion of Personal AGI](https://osintteam.blog/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-expansion-of-personal-agi-6ee63df44d3d?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: The Evolution of Personal AGI](https://medium.com/predict/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-evolution-of-personal-agi-4f57f8fddee8?source=rss-9ecb664d87c1------2)
-- [Why the Future of AI Isn’t Bigger, It’s More Personal: Unveiling the Curtain](https://medium.com/predict/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-rise-of-personal-agi-67cc03afb695?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
