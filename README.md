@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About LLMs — Part 1: Foundations of NLP](https://medium.com/@teendifferent/everything-you-need-to-know-about-llms-part-1-foundations-of-nlp-33462b8821f5?source=rss-9ecb664d87c1------2)
 - [CES 2025 Highlights: All the Details on NVIDIA’s Project DIGITS and More](https://medium.com/predict/ces-2025-highlights-all-the-details-on-nvidias-project-digits-and-more-eedd67f2aca8?source=rss-9ecb664d87c1------2)
 - [What Are Large Concept Models? The Meta AI Innovation You Need to Know About!](https://medium.com/predict/what-are-large-concept-models-the-meta-ai-innovation-you-need-to-know-about-2375a618fed1?source=rss-9ecb664d87c1------2)
 - [How the Instagram Algorithm Works in 2025 &lpar;and What Data It Collects?&rpar;](https://osintteam.blog/how-the-instagram-algorithm-works-in-2024-and-what-data-it-collects-cd8410d0d117?source=rss-9ecb664d87c1------2)
 - [Why the Future of AI Isn’t Bigger, It’s More Personal: The Vision of Personal AGI](https://medium.com/pythoneers/why-the-future-of-ai-isnt-bigger-it-s-more-personal-the-vision-of-personal-agi-ff29d270d617?source=rss-9ecb664d87c1------2)
-- [Why the Future of AI Isn’t Bigger, It’s More Personal: Beyond the Clock](https://osintteam.blog/why-the-future-of-ai-isnt-bigger-it-s-more-personal-beyond-the-clock-f97b6cf61d25?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
