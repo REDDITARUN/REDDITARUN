@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [Protein Structure Prediction with AlphaFold: Everything You Need to Know](https://thegrayarea.tech/protein-structure-prediction-with-alphafold-everything-you-need-to-know-7552d40c1b41?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 3](https://osintteam.blog/everything-you-need-to-know-about-llms-part-3-062cc8e7de8f?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 2: Positional Embeddings and Multi-Head Attention](https://osintteam.blog/everything-you-need-to-know-about-llms-part-2-positional-embeddings-and-multi-head-attention-01a3d0df5db6?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 1: Foundations of NLP](https://osintteam.blog/everything-you-need-to-know-about-llms-part-1-foundations-of-nlp-33462b8821f5?source=rss-9ecb664d87c1------2)
 - [CES 2025 Highlights: All the Details on NVIDIA’s Project DIGITS and More](https://medium.com/predict/ces-2025-highlights-all-the-details-on-nvidias-project-digits-and-more-eedd67f2aca8?source=rss-9ecb664d87c1------2)
-- [What Are Large Concept Models? The Meta AI Innovation You Need to Know About!](https://medium.com/predict/what-are-large-concept-models-the-meta-ai-innovation-you-need-to-know-about-2375a618fed1?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
