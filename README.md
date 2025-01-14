@@ -13,11 +13,11 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About LLMs — Part 5: Training and Fine-tuning](https://medium.com/@teendifferent/everything-you-need-to-know-about-llms-part-5-training-and-fine-tuning-1f52990edace?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 4: Data and Scaling Laws](https://osintteam.blog/everything-you-need-to-know-about-llms-part-4-data-and-scaling-laws-01f7db6bef98?source=rss-9ecb664d87c1------2)
 - [Protein Structure Prediction with AlphaFold: Everything You Need to Know](https://thegrayarea.tech/protein-structure-prediction-with-alphafold-everything-you-need-to-know-7552d40c1b41?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 3](https://osintteam.blog/everything-you-need-to-know-about-llms-part-3-062cc8e7de8f?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 2: Positional Embeddings and Multi-Head Attention](https://osintteam.blog/everything-you-need-to-know-about-llms-part-2-positional-embeddings-and-multi-head-attention-01a3d0df5db6?source=rss-9ecb664d87c1------2)
-- [Everything You Need to Know About LLMs — Part 1: Foundations of NLP](https://osintteam.blog/everything-you-need-to-know-about-llms-part-1-foundations-of-nlp-33462b8821f5?source=rss-9ecb664d87c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
