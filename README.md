@@ -14,7 +14,7 @@ I bet you've got some exciting ideas brewing too. What's got you curious lately?
 ## Check out my writings 
 <!-- BLOG-POST-LIST:START -->
 - [Stanford STORM Explained: AI That Writes and Curates Smarter](https://medium.com/predict/stanford-storm-explained-ai-that-writes-and-curates-smarter-ff39c746e290?source=rss-9ecb664d87c1------2)
-- [Everything You Need to Know About LLMs — Part 5: Training and Fine-tuning](https://medium.com/@teendifferent/everything-you-need-to-know-about-llms-part-5-training-and-fine-tuning-1f52990edace?source=rss-9ecb664d87c1------2)
+- [Everything You Need to Know About LLMs — Part 5: Training and Fine-tuning](https://osintteam.blog/everything-you-need-to-know-about-llms-part-5-training-and-fine-tuning-1f52990edace?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 4: Data and Scaling Laws](https://osintteam.blog/everything-you-need-to-know-about-llms-part-4-data-and-scaling-laws-01f7db6bef98?source=rss-9ecb664d87c1------2)
 - [Protein Structure Prediction with AlphaFold: Everything You Need to Know](https://thegrayarea.tech/protein-structure-prediction-with-alphafold-everything-you-need-to-know-7552d40c1b41?source=rss-9ecb664d87c1------2)
 - [Everything You Need to Know About LLMs — Part 3](https://osintteam.blog/everything-you-need-to-know-about-llms-part-3-062cc8e7de8f?source=rss-9ecb664d87c1------2)
