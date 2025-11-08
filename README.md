@@ -1,22 +1,15 @@
-# Welcome to My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hey yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ![](https://komarev.com/ghpvc/?username=REDDITARUN&color=grey)
 
-I love to build, experiment, and do a ton of research. Cause experimenting is never boring.
-Things I want to and I’m experimenting on:
+Building, experimenting, researching.
 
-- Vision models, LLMs, TTS, STT
-- Memory, context, or retrieval, etc.
-- Kernels, kernel optimization, kernel code gen (*)
-- RL (big big big fan). Also, I feel that’s where the future holds
-  
-Free time?
-- Write blogs
-- Do some creative stuff like designs
-- Go for walks or rides
+- **Obsessed with:** Vision models | LLMs | TTS/STT | Memory & Retrieval | GPU Kernels | RL (💯 fan)
+- **Master’s:** Top Researcher, startup co-founder, 3 AI studies, 20+ projects, ~100 articles & 500+ Medium followers
+- **Off-duty:** writing, designing, walking & riding
 
-### My contact or access points (I don’t update their bios much though 😅) 🤝
-- Check out my personal side at [Bento](https://bento.me/tarunreddi).
-- Peek at my journey at [Portfolio](https://redditarun.github.io/).
+### Access points (I don’t update their bios much though 😅) 🤝
+- Check out my personal side at [Bento](https://bento.me/tarunreddi)
+- Peek at my journey at [Portfolio](https://redditarun.github.io/)
 
 
 ## My writings 
