@@ -1,31 +1,23 @@
-import feedparser
 import requests
 import re
 from datetime import datetime
 
 README_FILE = "README.md"
-SUBSTACK_FEED = "https://rsshub.app/substack/teendifferent"
+SUBSTACK_API = "https://teendifferent.substack.com/api/v1/archive"
 MAX_POSTS = 5
 
-def fetch_feed(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    return feedparser.parse(response.content)
-
-feed = fetch_feed(SUBSTACK_FEED)
+response = requests.get(SUBSTACK_API)
+response.raise_for_status()
+data = response.json()
 
 posts = []
 
-for entry in feed.entries[:MAX_POSTS]:
-    published = entry.get("published_parsed")
-    if published:
-        date = datetime(*published[:6]).strftime("%b %d, %Y")
-    else:
-        date = ""
-    posts.append(f"- [{entry.title}]({entry.link}) ({date})")
+for post in data[:MAX_POSTS]:
+    title = post["title"]
+    slug = post["slug"]
+    date = datetime.fromisoformat(post["post_date"]).strftime("%b %d, %Y")
+    link = f"https://teendifferent.substack.com/p/{slug}"
+    posts.append(f"- [{title}]({link}) ({date})")
 
 formatted_posts = "\n".join(posts)
 
