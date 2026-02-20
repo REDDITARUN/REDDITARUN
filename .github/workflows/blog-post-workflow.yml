@@ -1,14 +1,21 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'   # Runs every hour
+  workflow_dispatch:      # Allows manual trigger
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://medium.com/feed/@teendifferent'
+          feed_list: |
+            https://teendifferent.substack.com/feed
+            https://medium.com/feed/@teendifferent
+          max_post_count: 5
