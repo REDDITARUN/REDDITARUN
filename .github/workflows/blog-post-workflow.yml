@@ -1,4 +1,4 @@
-name: Update README with blog posts
+name: Update README with Substack posts
 
 on:
   schedule:
@@ -21,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
-      - name: Fetch and update blog posts
+      - name: Update README from Substack
         run: python update_readme.py
 
       - name: Commit changes
         run: |
-          git config --global user.name "blog-bot"
-          git config --global user.email "blog-bot@example.com"
+          git config --global user.name "substack-bot"
+          git config --global user.email "substack-bot@example.com"
           git add README.md
-          git commit -m "Update blog posts" || echo "No changes"
+          git commit -m "Update Substack posts" || echo "No changes"
           git push
