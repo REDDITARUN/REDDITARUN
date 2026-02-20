@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 README_FILE = "README.md"
-SUBSTACK_FEED = "https://teendifferent.substack.com/feed"
+SUBSTACK_FEED = "https://rsshub.app/substack/teendifferent"
 MAX_POSTS = 5
 
 def fetch_feed(url):
