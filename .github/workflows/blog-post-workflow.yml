@@ -1,20 +1,33 @@
-name: Latest blog post workflow
+name: Update README with blog posts
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          feed_list: |
-            https://rsshub.app/substack/teendifferent
-            https://medium.com/feed/@teendifferent
-          max_post_count: 5
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Fetch and update blog posts
+        run: python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "blog-bot"
+          git config --global user.email "blog-bot@example.com"
+          git add README.md
+          git commit -m "Update blog posts" || echo "No changes"
+          git push
