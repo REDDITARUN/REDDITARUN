@@ -2,12 +2,11 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs every hour
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
     runs-on: ubuntu-latest
 
     steps:
@@ -19,3 +18,5 @@ jobs:
             https://teendifferent.substack.com/feed
             https://medium.com/feed/@teendifferent
           max_post_count: 5
+          user_agent: Mozilla/5.0
+          accept_header: text/html,application/xhtml+xml
