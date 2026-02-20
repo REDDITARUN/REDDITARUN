@@ -4,9 +4,6 @@ I love building and training tiny neural nets (GPU-poor life), across anything f
 
 
 ## My Writings ✍️
-
-I write about deep learning, LLMs, agents, and representation learning.
-
 - Substack → https://teendifferent.substack.com/
 - Medium (archives) → https://medium.com/@teendifferent
 
