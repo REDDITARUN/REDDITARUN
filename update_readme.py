@@ -6,8 +6,9 @@ README_FILE = "README.md"
 SUBSTACK_API = "https://teendifferent.substack.com/api/v1/archive"
 MAX_POSTS = 5
 
-response = requests.get(SUBSTACK_API)
+response = requests.get(SUBSTACK_API, headers={"User-Agent": "Mozilla/5.0"})
 response.raise_for_status()
+
 data = response.json()
 
 posts = []
@@ -28,8 +29,10 @@ new_content = re.sub(
     r"<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->",
     f"<!-- BLOG-POST-LIST:START -->\n{formatted_posts}\n<!-- BLOG-POST-LIST:END -->",
     content,
-    flags=re.DOTALL
+    flags=re.DOTALL,
 )
 
 with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(new_content)
+
+print("README updated successfully.")
