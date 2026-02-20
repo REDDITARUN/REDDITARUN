@@ -15,8 +15,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: |
-            https://teendifferent.substack.com/feed
+            https://rsshub.app/substack/teendifferent
             https://medium.com/feed/@teendifferent
           max_post_count: 5
-          user_agent: Mozilla/5.0
-          accept_header: text/html
