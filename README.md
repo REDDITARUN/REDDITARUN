@@ -1,9 +1,7 @@
-I love building and training tiny neural nets (GPU-poor life), across anything from text to vision and audio. Most of my experiments explore making models a bit more human-like, and I write blogs to share what I learn.
+Building big functions [neural nets] from scratch, or orchestrating big and small ones [agents]. Obsessed with making them more human-like… constantly experimenting, writing what’s learned, and recharging through nature, cycling, and hiking.
 
-- Explore my work and ongoing journey at [Portfolio](https://redditarun.github.io/)
-
-
-## My Writings ✍️
-- Substack → https://teendifferent.substack.com/
-- Medium (archives) → https://medium.com/@teendifferent
+- My work: [Portfolio](https://redditarun.github.io/)
+- My writings: 
+  - Substack → https://teendifferent.substack.com/
+  - Medium (archives) → https://medium.com/@teendifferent
 
